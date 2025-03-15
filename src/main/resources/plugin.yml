@@ -1,0 +1,4 @@
+name: FastGrowthDiamondHoe
+version: '1.0-SNAPSHOT'
+main: com.rp.fastGrowthDiamondHoe.FastGrowthDiamondHoe
+api-version: '1.21'
